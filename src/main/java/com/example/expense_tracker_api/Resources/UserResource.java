@@ -1,4 +1,4 @@
-package com.example.expense_tracker_api.Controllers;
+package com.example.expense_tracker_api.Resources;
 
 
 import org.springframework.web.bind.annotation.PostMapping;

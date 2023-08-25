@@ -1,4 +1,4 @@
-package com.example.expense_tracker_api.data;
+package com.example.expense_tracker_api.Domain;
 
 public class User {
     private Integer userId;
